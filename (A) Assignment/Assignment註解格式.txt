@@ -1,0 +1,16 @@
+"""
+Assignment N
+Name: 沈哲寬
+Student Number: 111502036
+Course: 2022-CE1001-B
+"""
+
+cpp
+
+/*
+Assignment 8
+Name: 沈哲寬
+Student Number: 111502036
+Course: 2022-CE1001-B
+*/
+

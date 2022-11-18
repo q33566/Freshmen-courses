@@ -1,0 +1,16 @@
+Python
+
+"""
+Practice N
+Name: 沈哲寬
+Student Number: 111502036
+Course 2022-CE1003-B
+"""
+C++
+
+/*
+Practice N
+Name: 沈哲寬
+Student Number: 111502036
+Course 2022-CE1003-B
+*/
